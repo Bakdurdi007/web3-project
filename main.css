@@ -1,5 +1,12 @@
+body {
+    background-image: url(img/img.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 .coin {
-    padding-top: 20px;
+    padding-top: 10px;
     text-align: center;
 }
 
@@ -16,6 +23,8 @@ img:active{
 }
 
 h1{
+    font-family: SansSerif;
+    color: white;
     text-align: center;
     padding-top: 180px;
 }
