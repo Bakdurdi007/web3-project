@@ -1,4 +1,21 @@
-.coin{
-    padding-top: 200px;
+.coin {
+    padding-top: 20px;
     text-align: center;
+}
+
+img{
+    border-radius: 100%;
+}
+
+img:active{
+    box-shadow: 8px 8px 15px rgba(0, 0, 0, 0);
+}
+
+.image {
+    box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.5);
+}
+
+h1{
+    text-align: center;
+    padding-top: 180px;
 }
